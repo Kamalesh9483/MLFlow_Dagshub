@@ -3,7 +3,6 @@ import logging
 import sys
 import warnings
 from urllib.parse import urlparse
-
 import numpy as np
 import pandas as pd
 from sklearn.linear_model import ElasticNet
